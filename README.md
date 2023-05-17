@@ -9,7 +9,6 @@ A quick, easy project for ironing out key project parts such as linting. I use [
 Each React projet should include the following...
 
 - ESLint
-- React Aria
 - React DevTools
 - Deployment on Vercel (usually)
 
@@ -17,9 +16,7 @@ Each React projet should include the following...
 
 Just for fun in this project...
 
-- Moment.js
-- React Spring UX
-- Formik
+- React Spring (Parallax)
 
 ---
 
